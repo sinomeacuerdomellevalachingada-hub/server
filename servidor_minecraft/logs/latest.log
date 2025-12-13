@@ -1,0 +1,80 @@
+[02:52:47] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.2
+[02:52:48] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+[02:52:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:52:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:52:55] [main/INFO]: Loaded 1461 recipes
+[02:52:55] [main/INFO]: Loaded 1574 advancements
+[02:52:55] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[02:52:55] [Server thread/INFO]: Loading properties
+[02:52:55] [Server thread/INFO]: Default game type: SURVIVAL
+[02:52:55] [Server thread/INFO]: Generating keypair
+[02:52:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:52:55] [Server thread/INFO]: Using epoll channel type
+[02:52:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:52:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:52:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:52:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:52:55] [Server thread/INFO]: Preparing level "world"
+[02:52:55] [Server thread/INFO]: Loading 0 persistent chunks...
+[02:52:55] [Server thread/INFO]: Preparing spawn area: 100%
+[02:52:55] [Server thread/INFO]: Time elapsed: 14 ms
+[02:52:55] [Server thread/INFO]: Done (0.321s)! For help, type "help"
+[02:53:34] [Server thread/INFO]: Mamameelguevo[/127.4.15.41:50283] logged in with entity id 61 at (-8.5, 72.0, -7.5)
+[02:53:34] [Server thread/INFO]: Mamameelguevo joined the game
+[02:53:35] [Server thread/INFO]: Dxnz3l[/127.4.238.199:45855] logged in with entity id 187 at (-1708.6827916600805, 64.0, -303.9790582545422)
+[02:53:35] [Server thread/INFO]: Dxnz3l joined the game
+[02:56:31] [Server thread/INFO]: Mamameelguevo lost connection: Disconnected
+[02:56:31] [Server thread/INFO]: Mamameelguevo left the game
+[02:56:59] [Server thread/INFO]: Villager class_1646['Villager'/425, l='ServerLevel[world]', x=-1871.45, y=84.00, z=-256.58] died, message: 'Villager was slain by Zombie'
+[02:57:29] [Server thread/INFO]: Villager class_1646['Villager'/363, l='ServerLevel[world]', x=-1855.05, y=46.00, z=-305.04] died, message: 'Villager hit the ground too hard'
+[03:06:15] [Server thread/INFO]: Villager class_1646['Villager'/2661, l='ServerLevel[world]', x=-1885.24, y=72.19, z=-728.61] died, message: 'Villager was slain by Zombie'
+[03:07:57] [Server thread/INFO]: Mamameelguevo[/127.4.15.41:46215] logged in with entity id 5596 at (-10.699999988079071, 66.0, -24.04415218982386)
+[03:07:57] [Server thread/INFO]: Mamameelguevo joined the game
+[03:08:57] [Server thread/INFO]: Mamameelguevo has made the advancement [Stone Age]
+[03:09:17] [Server thread/INFO]: Mamameelguevo has made the advancement [Getting an Upgrade]
+[03:11:46] [Server thread/INFO]: Mamameelguevo has made the advancement [Acquire Hardware]
+[03:12:11] [Server thread/INFO]: Mamameelguevo has made the advancement [Isn't It Iron Pick]
+[03:12:58] [Server thread/INFO]: Mamameelguevo lost connection: Disconnected
+[03:12:58] [Server thread/INFO]: Mamameelguevo left the game
+[03:13:06] [Server thread/INFO]: Mamameelguevo[/127.4.15.41:38519] logged in with entity id 7696 at (-7.017734041237692, 8.44045513047196, -18.47859423591703)
+[03:13:06] [Server thread/INFO]: Mamameelguevo joined the game
+[03:14:39] [Server thread/INFO]: Mamameelguevo has made the advancement [Diamonds!]
+[03:17:58] [Server thread/INFO]: Dxnz3l lost connection: Disconnected
+[03:17:58] [Server thread/INFO]: Dxnz3l left the game
+[03:18:15] [Server thread/INFO]: Made Dxnz3l a server operator
+[03:18:27] [Server thread/INFO]: Dxnz3l[/127.135.29.152:56373] logged in with entity id 10044 at (-1867.300000011921, 72.0, -768.3730563483005)
+[03:18:27] [Server thread/INFO]: Dxnz3l joined the game
+[03:19:01] [Server thread/INFO]: [Dxnz3l: Set own game mode to Spectator Mode]
+[03:20:55] [Server thread/INFO]: Mamameelguevo has made the advancement [Cover Me with Diamonds]
+[03:23:01] [Server thread/INFO]: [Dxnz3l: Banned Mamameelguevo: Banned by an operator.]
+[03:23:01] [Server thread/INFO]: Mamameelguevo lost connection: You are banned from this server
+[03:23:01] [Server thread/INFO]: Mamameelguevo left the game
+[03:23:01] [Server thread/WARN]: handleDisconnection() called twice
+[03:25:35] [Server thread/INFO]: Disconnecting Mamameelguevo (/127.4.15.41:59243): You are banned from this server.
+Reason: Banned by an operator.
+[03:25:35] [Server thread/INFO]: Mamameelguevo (/127.4.15.41:59243) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[03:25:36] [Server thread/WARN]: handleDisconnection() called twice
+[03:33:44] [Server thread/INFO]: [Dxnz3l: Set own game mode to Survival Mode]
+[03:33:47] [Server thread/INFO]: Dxnz3l lost connection: Disconnected
+[03:33:47] [Server thread/INFO]: Dxnz3l left the game
+[03:33:50] [Server thread/INFO]: Dxnz3l[/127.4.238.199:45361] logged in with entity id 12575 at (0.46180466140041004, 96.26856165794275, 126.34595718913793)
+[03:33:50] [Server thread/INFO]: Dxnz3l joined the game
+[03:33:52] [Server thread/INFO]: Dxnz3l fell from a high place
+[03:34:02] [Server thread/INFO]: Dxnz3l lost connection: Disconnected
+[03:34:02] [Server thread/INFO]: Dxnz3l left the game
+[03:34:43] [Server thread/INFO]: Stopping the server
+[03:34:43] [Server thread/INFO]: Stopping server
+[03:34:43] [Server thread/INFO]: Saving players
+[03:34:43] [Server thread/INFO]: Saving worlds
+[03:34:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:34:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:34:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:34:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
